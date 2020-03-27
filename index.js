@@ -31,3 +31,7 @@ class Bird {
     }
   }
 }
+
+cat = new Cat("Sasha", "female")
+console.log(cat.name)
+console.log(cat.speak())
