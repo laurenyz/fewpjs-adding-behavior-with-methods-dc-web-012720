@@ -4,7 +4,7 @@ class Cat {
     this.sex = sex
   }
   speak() {
-    `${this.name} says meow!`
+    console.log(`${this.name} says meow!`)
   }
 }
 
